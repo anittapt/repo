@@ -1,4 +1,3 @@
-//practica_ut9/renderer/home/details.js
 
 const { ipcRenderer } = require("electron");
 
